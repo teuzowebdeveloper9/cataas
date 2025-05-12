@@ -20,6 +20,8 @@ Adicionei variáveis CSS para facilitar a manutenção e personalização das co
 ```
 
 ## 2. Estilização do Corpo
+
+![cat kwaii](https://i.pinimg.com/originals/f0/ae/8b/f0ae8bc86ab9b5459880ea9e8894774d.gif)
 Personalizei o corpo do documento para utilizar as variáveis de cor e melhorar a legibilidade:
 
 
