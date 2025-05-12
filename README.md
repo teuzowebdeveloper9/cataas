@@ -1,6 +1,6 @@
 # 🐱✨ Projeto Estilizado por Teuzowebdeveloper
 
-![Gato Beijo](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgato-beijo-gato-gostoso-gif-25914063&psig=AOvVaw08mr3WuqY39Q5rXeXK1dkF&ust=1747098621433000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODKk9ffnI0DFQAAAAAdAAAAABAE)
+![Gato Beijo](https://media.tenor.com/o_5RQarGvJ0AAAAM/kiss.gif)
 
 ## Sobre o Projeto
 
