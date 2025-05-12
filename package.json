@@ -1,0 +1,26 @@
+{
+  "name": "cataas-teuzo-version",
+  "version": "1.0.0",
+  "description": "![Gato Beijo](https://media.tenor.com/o_5RQarGvJ0AAAAM/kiss.gif)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teuzowebdeveloper9/cataas-teuzo-version.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teuzowebdeveloper9/cataas-teuzo-version/issues"
+  },
+  "homepage": "https://github.com/teuzowebdeveloper9/cataas-teuzo-version#readme",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "express": "^5.1.0",
+    "multer": "^1.4.5-lts.2",
+    "path": "^0.12.7",
+    "sharp": "^0.34.1"
+  }
+}
