@@ -42,6 +42,9 @@ body {
 ```
 
 ## 3. Estilização do Header
+
+![woow cat](https://media3.giphy.com/media/3rg3vxFMGGymk/200w.gif?cid=6c09b952nonocxr93caln0hcz5w1nxct4lznejr893yzxbvt&ep=v1_gifs_search&rid=200w.gif&ct=g)
+
 Modifiquei o header para ter um fundo preto e texto branco, além de centralizar o conteúdo:
 
 
