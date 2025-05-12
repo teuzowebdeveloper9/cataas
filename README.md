@@ -9,6 +9,8 @@ Este repositório foi originalmente criado pelo meu amigo Luziberto Mendes. Deci
 ## Mudanças Feitas
 
 ### 1. Adição de Variáveis CSS
+![git cat](https://media1.giphy.com/media/tRoH9EYLs3lok/200w.gif?cid=6c09b952lmdl73p5u4py7lix0vs022zn2wifgygpd2lttsh3&ep=v1_gifs_search&rid=200w.gif&ct=g)
+
 Adicionei variáveis CSS para facilitar a manutenção e personalização das cores do projeto:
 ```css
 :root {
