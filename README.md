@@ -108,6 +108,15 @@ Adicionei estilos responsivos para melhorar a experiência em dispositivos móve
 }
 ```
 
+## screenshots
+
+![image](https://github.com/user-attachments/assets/5c574fb5-dffc-4248-ad23-6335192e6997)
+
+
+![image](https://github.com/user-attachments/assets/449c5838-fbe3-4424-8d3c-e475afec4087)
+
+![image](https://github.com/user-attachments/assets/d48ba7f2-70d5-40e3-bbd2-47f39f4d7fb7)
+
 ## obrigado por ler até aqui 
 
 
